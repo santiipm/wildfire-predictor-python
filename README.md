@@ -1,0 +1,6 @@
+
+Este proyecto desarrolla un prototipo de sistema de predicción de riesgo de incendios forestales utilizando técnicas de Machine Learning, motivado por la recurrencia de estos desastres en zonas de alto riesgo como la provincia de Málaga. El objetivo es analizar datos históricos de factores ambientales (como temperatura, humedad, viento y lluvia) para entrenar un modelo capaz de clasificar si el riesgo de incendio es alto o bajo, sirviendo como una herramienta proactiva para comprender y aplicar la ciencia de datos en la resolución de problemas ambientales y de gestión de desastres.
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+This project develops a prototype for a forest fire risk prediction system using Machine Learning techniques, motivated by the recurrence of these disasters in high-risk areas like the province of Málaga. The goal is to analyze historical data of environmental factors (such as temperature, humidity, wind, and rain) to train a model capable of classifying whether the fire risk is high or low, serving as a proactive tool to understand and apply data science in the resolution of environmental and disaster management problems.
