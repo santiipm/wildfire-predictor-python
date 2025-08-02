@@ -1,0 +1,17 @@
+# Ignorar la carpeta del entorno virtual de Python
+.venv/
+venv/
+
+# Ignorar archivos temporales, de caché y de compilación
+__pycache__/
+*.pyc
+*.pyd
+
+# Ignorar archivos de datos grandes o específicos del usuario
+data/
+# Si quieres subir los datos, borra la línea de arriba y añade solo los archivos grandes:
+# data/*.csv
+
+# Ignorar modelos entrenados
+models/
+*.pkl
